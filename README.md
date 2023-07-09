@@ -1,0 +1,2 @@
+# Edge-Uninstaller
+Edge Uninstaller
